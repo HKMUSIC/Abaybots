@@ -29,12 +29,13 @@ def private_panel(_):
         InlineKeyboardButton("˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/+M4TXiFvtuo1iZmZl"),
             #InlineKeyboardButton(text=_["S_B_7"], url=config.UPSTREAM_REPO),
         ],
-        [InlineKeyboardButton("˹ ϻʏ ϻᴧsᴛєʀ ˼ 👑", url=f"https://t.me/ll_ABHI_PAPA_OP_ll")
+        [InlineKeyboardButton("˹ ϻʏ ϻᴧsᴛєʀ ˼ 👑", url=f"https://t.me/lll_ABHI_BRAND_OP_lll")
 
         ],
         
     ]
     return buttons
+
 
 
 
