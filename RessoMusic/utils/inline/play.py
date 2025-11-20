@@ -53,7 +53,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [InlineKeyboardButton("˹ϻʏ ʜᴏϻє˼", url=f"https://t.me/ll_ABOUT_ABHI_ll"),
-         InlineKeyboardButton("˹ᴏᴡɴєʀ˼", url=f"http://t.me/ll_ABHI_PAPA_OP_ll"),
+         InlineKeyboardButton("˹ᴏᴡɴєʀ˼", url=f"http://t.me/lll_ABHI_BRAND_OP_lll"),
 
         ],
         
